@@ -1,5 +1,6 @@
-# Spring-Cats
-Spring Boot Java application with:
--Spring Data JPA
--Spring MVC
--REST API
+# Spring-Cats 🐱
+
+**Spring Boot** приложение для работы с данными о котах, использующее:
+- Spring Data JPA
+- Spring MVC
+- REST API 
