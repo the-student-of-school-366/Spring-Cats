@@ -1,11 +1,11 @@
-package com.example.lab4.services;
+package com.example.services;
 
-import com.example.lab4.dto.PetDto;
-import com.example.lab4.entities.Pet;
+import com.example.dto.PetDto;
+import com.example.entities.Pet;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
-import com.example.lab4.repository.PetRepository;
+import com.example.repository.PetRepository;
 
 import java.util.ArrayList;
 import java.util.List;

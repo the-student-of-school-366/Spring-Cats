@@ -1,6 +1,6 @@
-package com.example.lab4.dto;
+package com.example.dto;
 
-import com.example.lab4.entities.Pet;
+import com.example.entities.Pet;
 
 import java.time.LocalDate;
 import java.util.List;

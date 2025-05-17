@@ -1,6 +1,6 @@
-package com.example.lab4.repository;
+package com.example.repository;
 
-import com.example.lab4.entities.Owner;
+import com.example.entities.Owner;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

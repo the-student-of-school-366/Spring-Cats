@@ -1,11 +1,11 @@
-package com.example.lab4;
+package com.example;
 
 
 
-import com.example.lab4.controller.PetController;
-import com.example.lab4.dto.PetDto; // Импортируйте ваш PetDto
-import com.example.lab4.entities.Owner; // Возможно, потребуется для PetDto
-import com.example.lab4.services.PetService; // Импортируйте ваш PetService
+import com.example.controller.PetController;
+import com.example.dto.PetDto; // Импортируйте ваш PetDto
+import com.example.entities.Owner; // Возможно, потребуется для PetDto
+import com.example.services.PetService; // Импортируйте ваш PetService
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;

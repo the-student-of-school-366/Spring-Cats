@@ -1,6 +1,6 @@
-package com.example.lab4.repository;
+package com.example.repository;
 
-import com.example.lab4.entities.Pet;
+import com.example.entities.Pet;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

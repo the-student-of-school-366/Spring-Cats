@@ -1,11 +1,11 @@
-package com.example.lab4.services;
+package com.example.services;
 
-import com.example.lab4.dto.OwnerDto;
-import com.example.lab4.entities.Owner;
-import com.example.lab4.entities.Pet;
+import com.example.dto.OwnerDto;
+import com.example.entities.Owner;
+import com.example.entities.Pet;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.example.lab4.repository.OwnerRepository;
+import com.example.repository.OwnerRepository;
 
 import java.util.ArrayList;
 import java.util.List;

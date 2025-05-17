@@ -1,9 +1,9 @@
-package com.example.lab4.controller;
+package com.example.controller;
 
-import com.example.lab4.dto.OwnerDto;
+import com.example.dto.OwnerDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import com.example.lab4.services.OwnerService;
+import com.example.services.OwnerService;
 
 import java.util.List;
 

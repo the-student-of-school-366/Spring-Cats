@@ -1,9 +1,9 @@
-package com.example.lab4;
+package com.example;
 
 
-import com.example.lab4.controller.OwnerController;
-import com.example.lab4.dto.OwnerDto; // Импортируйте ваш OwnerDto
-import com.example.lab4.services.OwnerService; // Импортируйте ваш OwnerService
+import com.example.controller.OwnerController;
+import com.example.dto.OwnerDto; // Импортируйте ваш OwnerDto
+import com.example.services.OwnerService; // Импортируйте ваш OwnerService
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;

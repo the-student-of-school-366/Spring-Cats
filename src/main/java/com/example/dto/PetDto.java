@@ -1,6 +1,6 @@
-package com.example.lab4.dto;
+package com.example.dto;
 
-import com.example.lab4.entities.Owner;
+import com.example.entities.Owner;
 
 import java.time.LocalDate;
 
